@@ -1,0 +1,4 @@
+//realizar un juego de adivinar si un numero es mayor o menor
+//vamos a jugar con la computadora, ella genera un numero al azar
+
+Math.random(0 and 9)
